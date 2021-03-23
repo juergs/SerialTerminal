@@ -1,3 +1,5 @@
+Might be cloned from: https://github.com/Krypt0pr0xy/SerialTerminal-in-CSharp
+
 # SerialTerminal
 COM port terminal with RegEx filter highlighting
 Visual Studio Project
